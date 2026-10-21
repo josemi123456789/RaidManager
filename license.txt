@@ -1,0 +1,23 @@
+ACUERDO DE LICENCIA DE USUARIO FINAL Y POLÍTICA DE PRIVACIDAD
+RAID MANAGER — VERSIÓN 1.0.0
+
+1. ACEPTACIÓN DE LOS TÉRMINOS
+Al instalar, copiar o utilizar el software Raid Manager ("el Software"), usted acepta estar sujeto a los términos y condiciones de este Acuerdo. Si no está de acuerdo, no instale ni use el Software.
+
+2. DESCRIPCIÓN DEL SOFTWARE
+Raid Manager es una herramienta de escritorio diseñada para streamers que facilita la transición de espectadores desde transmisiones en vivo de TikTok Live hacia canales de Kick, integrando comunicación local con OBS Studio vía WebSocket.
+
+3. USO DE TIKTOK LIVE Y SEGURIDAD
+El Software utiliza conexiones de solo lectura a salas públicas de TikTok Live. El Software NO recopila credenciales de inicio de sesión de TikTok ni contraseñas bancarias o personales. El Software no envía spam automatizado ni viola los términos de servicio de terceros. Los mensajes de mudanza sugeridos son generados localmente en su equipo.
+
+4. COMUNICACIÓN LOCAL CON OBS STUDIO
+Toda comunicación con OBS Studio se realiza de forma estrictamente local en su equipo (localhost / 127.0.0.1). Las contraseñas de WebSocket y configuraciones se almacenan de manera local en su perfil de usuario (%APPDATA%\RaidManager).
+
+5. PRIVACIDAD DE DATOS
+Raid Manager respeta su privacidad. El Software no transmite sus datos, estadísticas ni configuraciones a servidores externos o de terceros. Todo el procesamiento se realiza en su computadora local.
+
+6. DESCARGO DE RESPONSABILIDAD DE GARANTÍAS
+El Software se proporciona "TAL CUAL" y "SEGÚN DISPONIBILIDAD", sin garantías de ningún tipo, expresas o implícitas. El autor no se hace responsable de desconexiones de red, cambios en APIs de terceros (TikTok o Kick) o interrupciones en la transmisión.
+
+7. MODIFICACIONES
+El autor se reserva el derecho de actualizar este acuerdo y las características del software en futuras versiones.
